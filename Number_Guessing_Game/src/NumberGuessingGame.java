@@ -36,6 +36,7 @@ public class NumberGuessingGame {
 				System.out.println("Sorry buddy? the answer is higher!");
 			}
 		}
+		scanner.close();
 	}
 
 }
